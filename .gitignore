@@ -55,3 +55,6 @@ target/
 
 # Pymode
 .ropeproject/
+
+# Vim temp swap
+*.swp
